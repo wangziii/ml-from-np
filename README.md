@@ -9,6 +9,11 @@ Basic version of a binary logistic regression classifier. Includes:
 - Predictions on iris dataset
 - Typical classification metrics (on cross-validated train/test sample): prediction, recall, F1 score
 
+Files:
+- Iris.csv - Iris dataset
+- LogisticRegression.py - LR model code
+- lr_iris_test.ipynb - Notebook to apply model to Iris dataset and evaluate basic metrics
+
 # Future exercises
 - MLP
 - Transformer
